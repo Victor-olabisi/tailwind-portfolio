@@ -9,10 +9,10 @@ const About = () => {
       "
     >
       <div className="grid md:grid-cols-2 align-element gap-20 items-center">
-        <img src={AboutImg} alt="" className="h-80" />
+        <img src={AboutImg} alt="" className="h-64 w-full" />
         <article>
           <SectionTitle text="code and coffee" />
-          <p className="pt-6 text-[#475569]">
+          <p className="pt-8 text-[#475569]">
             Lorem ipsum dolor sit amet consectetur, adipisicing elit. Sint
             maiores itaque doloribus asperiores dolorum quas voluptates
             distinctio, porro beatae quam provident libero animi totam,
